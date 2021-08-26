@@ -3,7 +3,9 @@
 ## Lifting Form Analyzer - Computer Vision Tech Demo
 
 Open Pose
+
 Open CV
+
 Python
 
 Music: Logic - Flexicution
